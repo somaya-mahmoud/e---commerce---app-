@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="30" viewBox="0 0 121 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="121" height="30" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Button" clip-path="url(#clip-path)">
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="none" stroke="rgba(114,124,142,0.3)" stroke-width="1">
+      <rect width="121" height="30" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="120" height="29" rx="14.5" fill="none"/>
+    </g>
+    <text id="EDIT_PROFILE" data-name="EDIT PROFILE" transform="translate(60.456 19.342)" fill="#727c8e" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.06em"><tspan x="-45.295" y="0">EDIT PROFILE</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="76" viewBox="0 0 360 76">
+  <defs>
+    <filter id="Rectangle_4" x="0" y="0" width="360" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#ff6969" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="cta_button" data-name="cta button" transform="translate(15 10)">
+    <g transform="matrix(1, 0, 0, 1, -15, -10)" filter="url(#Rectangle_4)">
+      <rect id="Rectangle_4-2" data-name="Rectangle 4" width="330" height="46" rx="23" transform="translate(15 10)" fill="#ff6969"/>
+    </g>
+    <text id="SIGN_UP" data-name="SIGN UP" transform="translate(158 28)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.06em"><tspan x="-26.831" y="0">SIGN UP</tspan></text>
+    <g id="Group_16" data-name="Group 16" transform="translate(293 8)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="28.797" height="29.62" rx="14.399" fill="#fff"/>
+      <path id="Path_11" data-name="Path 11" d="M26.582,16.758v0a.82.82,0,0,0-.252-.592h0l-4.937-4.937,0,0a.822.822,0,1,0-1.105,1.218L24.6,16.758,20.23,21.125h0a.823.823,0,0,0,1.163,1.163h0l4.937-4.937h0a.82.82,0,0,0,.252-.592Z" transform="translate(-8.481 -1.949)" fill="#ff6969" stroke="#ff6969" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

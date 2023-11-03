@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="166" height="84.494" viewBox="0 0 166 84.494">
+  <defs>
+    <filter id="Rectangle_1" x="0" y="0" width="166" height="84.494" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="see_more" data-name="see more" transform="translate(22.5 14.5)">
+    <g transform="matrix(1, 0, 0, 1, -22.5, -14.5)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="121" height="39.494" rx="19.747" transform="translate(22.5 14.5)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="28.797" height="29.62" rx="14.399" transform="translate(87.266 4.937)" fill="#ff6969"/>
+    <text id="SEE_MORE-2" data-name="SEE MORE" transform="translate(45.456 24.342)" fill="#727c8e" font-size="12" font-family="Helvetica" letter-spacing="0.06em"><tspan x="-34.193" y="0">SEE MORE</tspan></text>
+    <path id="Path_11" data-name="Path 11" d="M26.582,16.758v0a.82.82,0,0,0-.252-.592h0l-4.937-4.937,0,0a.822.822,0,1,0-1.105,1.218L24.6,16.758,20.23,21.125h0a.823.823,0,0,0,1.163,1.163h0l4.937-4.937h0a.82.82,0,0,0,.252-.592Z" transform="translate(78.785 2.987)" fill="#fff" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>
